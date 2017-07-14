@@ -14,6 +14,9 @@
 ##       invertible matrix as an input to makeCacheMatrix and a cacheble matrix
 ##       object as an input to cacheSolve function. Currently there are not 
 ##       control checks implemented to ensure that the inputs are correct. 
+##
+## Note 2 : The code is heavily based on the vector mean caching example made 
+##          while explaning the problem premises. 
 
 
 
